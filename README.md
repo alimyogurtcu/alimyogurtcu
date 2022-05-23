@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alim</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **Javascript, React.js, Node.js, MongoDB, Express.js**
+- 🌱 I’m currently learning **Java, Spring Framework, PostgreSQL**
 
 - 👨‍💻 All of my projects, certificates and resume are available at [https://alimyogurtcu.github.io/](https://alimyogurtcu.github.io/)
 
